@@ -2,6 +2,7 @@
 a 3D gun polygon with moving targets
 
 It has 2 guns;
+
 -Deagle: 10 bullets, not automatic, has more recoil, less time to reload.
 
 -AK-47: 30 bullets, automatic, has less recoil, more time to reload.
